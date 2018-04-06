@@ -6,9 +6,6 @@ A very simple hello world! app with Android Studio. I've added a simple button t
 
 ![pixeldemo](img/pixeldemo.gif)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -26,7 +23,7 @@ I used Espresso to run simple tests.
 
 ## Authors
 
-* **Leyth Adan** - *Initial work* - [wehelie](https://github.com/wehelie)
+* **Leyth Adan** - [wehelie](https://github.com/wehelie)
 
 
 ## Acknowledgments
