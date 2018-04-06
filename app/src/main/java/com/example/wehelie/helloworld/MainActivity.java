@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * @param view
+     * sets the author name and date to the textview
      */
     public void getAuthor(View view) {
-        authorName.setText("Adan, Layth @ 6 April 2018");
+        authorName.setText(R.string.text_info);
     }
 }
