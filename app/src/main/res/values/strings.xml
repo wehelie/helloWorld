@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Hello World</string>
     <string name="helloWorld">Hello World!</string>
-    <string name="name_date">Adan, Layth (4/6/2018)</string>
     <string name="show_author_and_date">show author and date</string>
     <string name="text_info">Adan, Leyth @ 6 April 2018</string>
 </resources>
